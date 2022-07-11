@@ -1,0 +1,80 @@
+nav{
+    height: 150px;
+    
+}
+.navbar-brand{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    background-image: linear-gradient(red,pink);
+}
+.ele{
+    font-size: 30px;
+    position: relative;
+    right: 500px;
+    padding: 20px;
+}
+.container-fluid{
+    padding-left: 0%;
+}
+.title{
+    font-size: 80px;
+    position: static;
+}
+.home{
+    color: red;
+}
+.rogan{
+    font-size: 30px;
+    color: red;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.buy{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.section-1{
+    padding-bottom: 30px;
+}
+.image-1{
+    width: 100%;
+    height: 100%;
+    padding-right: 30px;
+    margin-top: 30px;
+}
+.discount span{
+    color: orange;
+}
+.discount p{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.discount{
+    margin: 30px 100px ;
+    box-shadow: 2px 2px 2px 2px grey;
+    width: 250px;
+}
+h1{
+    font-size: 115px;
+    color: #1F4690;
+    padding-left: 50px;
+}
+.extra{
+    font-size: 30px;
+    color: grey;
+    padding: 30px 50px;
+}
+.section-2{
+    margin-bottom: 60px;
+}
+.footer{
+    height: 100px;
+    padding-top: 30px;
+    text-align: center;
+}
+.section-3 span{
+    font-size: 30px;
+    padding: 0px 30px ;
+    font-weight: bold;
+}
